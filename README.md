@@ -1,1 +1,2 @@
 # Runnables
+zamanı döngüye sokmak
